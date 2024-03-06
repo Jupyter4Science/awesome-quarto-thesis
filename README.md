@@ -1,4 +1,4 @@
-<h2 align='center'>Quarto Thesis</h2>
+<h2 align='center'>Awesome Quarto Thesis</h2>
 
 <p align='center'>
 A list of Quarto templates designed to produce a university thesis or dissertation
