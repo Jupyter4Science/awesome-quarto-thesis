@@ -5,7 +5,7 @@ A list of Quarto templates designed to produce a university thesis or dissertati
 <br><br>
 
 ### Contributions welcome
-This is a hand-curated list. If you see a missing or mislabeled repository, please submit a pull request. 
+This is a hand-curated list of Quarto dissertation and thesis extensions (as of 2024-03-06). If you see a missing or mislabeled repository, please submit a pull request. 
 
 ## Quarto Extensions
 
@@ -14,6 +14,9 @@ This is a hand-curated list. If you see a missing or mislabeled repository, plea
 ```
 quarto install extension <owner>/<repository>
 ```
+
+Arizona State University
+- [juliantao/quarto-asu-thesis](https://github.com/juliantao/quarto-asu-thesis)
 
 Brazilian Association of Technical Standards
 - [danielvartan/abnt](https://github.com/danielvartan/abnt)
@@ -24,8 +27,14 @@ Brigham Young University
 Georgia State University
 - [joshuafayallen/gsu-quarto-dissertation-template](https://github.com/joshuafayallen/gsu-quarto-dissertation-template)
 
+Macquarie University
+- [thomas-fung/mq-thesis-quarto](https://github.com/thomas-fung/mq-thesis-quarto)
+
 Monash University
 - [numbats/monash-quarto-thesis](https://github.com/numbats/monash-quarto-thesis)
+
+Universität Mainz
+- [tisprang/jgu-ed-master-quarto](https://github.com/tisprang/jgu-ed-master-quarto)
 
 Universitat Pompeu Fabra 
 - [gongcastro/upfthesis](https://github.com/gongcastro/upfthesis)
@@ -48,10 +57,14 @@ University of Pittsburg
 University of Skövde
 - [verbalins/his-template](https://github.com/verbalins/his-template)
 
+University of São Paulo
+- [danielvartan/mastersthesis](https://github.com/danielvartan/mastersthesis)
+
+University of Trento
+- [Baldomo/thesis-openrfsense](https://github.com/Baldomo/thesis-openrfsense)
 
 
 ## Under Development
-
 
 American University
 - [bethanyleap/auQuartoDissTemplate](https://github.com/bethanyleap/auQuartoDissTemplate)
@@ -59,19 +72,20 @@ American University
 Arizona State University
 - [nicole-brewer/asu-thesis](https://github.com/nicole-brewer/asu-thesis)
 
+Australian National University
+- [quarto-anu-thesis](https://github.com/anuopensci/quarto-anu-thesis)
+
 Heinrich Heine University Düsseldorf
 - [schochastics/hhu_thesis](https://github.com/schochastics/hhu_thesis)
+
+Other
+- [bbartholdy/endgame](https://github.com/bbartholdy/endgame)
 
 Tufts University
 - [fredguth/IBToDL](https://github.com/fredguth/IBToDL)
 
-## Projects the use Quarto
-
-University of Bergen - Department of Biological Sciences
-- [jianqih/quarto-thesis](https://github.com/jianqih/quarto-thesis)
-
-Unknown
-- [bbartholdy/endgame](https://github.com/bbartholdy/endgame)
-
 Tsinghua University
 - [syfyufei/THUquarto](https://github.com/syfyufei/THUquarto)
+
+University of Ottawa
+- [JulienGAMartin/quarto-bio-uO-thesis](https://github.com/JulienGAMartin/quarto-bio-uO-thesis)
