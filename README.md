@@ -64,6 +64,9 @@ University College London - Centre for Advanced Spatial Analysis
 University of Edinburgh
 - [james-d-h/quarto-phd-thesis](https://github.com/james-d-h/quarto-phd-thesis)
 
+University of Leeds
+- [PublicHealthDataGeek/UoL_quarto_thesis](https://github.com/PublicHealthDataGeek/UoL_quarto_thesis)
+
 University of Michigan
 - [kelly-sovacool/rackham](https://github.com/kelly-sovacool/rackham)
 
